@@ -1,5 +1,3 @@
-
-```markdown
 # Learning-to-Rank Pipeline for Passage Retrieval
 
 This repository presents a multi-stage information retrieval and learning-to-rank pipeline developed for the Kaggle competition [AI/ML A.A. 2025-26 End of Year Hackathon](https://www.kaggle.com/competitions/aiml-a-a-2025-26-end-of-year-hackathon/leaderboard).
@@ -284,4 +282,3 @@ Beyond the leaderboard result, the repository can be viewed as a compact example
 - and gradient-boosted learning-to-rank.
 
 ---
-```
